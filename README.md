@@ -8,4 +8,7 @@ USB3 Controller  	    ASMedia ASM2142 USB 3.1 xHCI Controller
 USB3 Controller     	Intel Kaby Point PCH - USB 3.1 xHCI Host Controller
 Video Adapter       	Radeon RX 580 Series (8 GB)
 BIOS Version  	      1.14
+
 On this configuration, I managed to get everything: sound, intel acceleration, all USB ports, sleep, a discrete RX580 graphics card, an implemented system on OpenCore 0.5.8 loader
+
+Tested on MacOS_10.15.4, it will also work without problems on MacOS_10.14
