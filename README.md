@@ -1,5 +1,5 @@
 # EVGA-Z370-Classified-K
-OpenCore 0.5.8
+OpenCore 0.5.9
 
 EVGA Z370 Classified K Hackintosh OpenCore
 
@@ -19,4 +19,4 @@ BIOS Version  	      1.14
 
 On this configuration, I managed to get everything: sound, intel acceleration, all USB ports, sleep, a discrete RX580 graphics card, an implemented system on OpenCore 0.5.8 loader
 
-Tested on MacOS_10.15.4, it will also work without problems on MacOS_10.14
+Tested on MacOS_10.15.6, it will also work without problems on MacOS_10.14
