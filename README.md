@@ -19,4 +19,4 @@ BIOS Version  	      1.14
 
 On this configuration, I managed to get everything: sound, intel acceleration, all USB ports, sleep, a discrete RX580 graphics card, an implemented system on OpenCore 0.5.8 loader
 
-Tested MacOS_10.11.1_And_MacOS_10.15.6, it will also work without problems on MacOS_10.14
+Tested MacOS_11.2.1_And_MacOS_10.15.6, it will also work without problems on MacOS_10.14
