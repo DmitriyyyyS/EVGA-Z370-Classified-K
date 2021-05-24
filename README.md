@@ -1,5 +1,5 @@
 # EVGA-Z370-Classified-K
-OpenCore 0.6.6
+OpenCore 0.6.9
 
 EVGA Z370 Classified K Hackintosh OpenCore
 
