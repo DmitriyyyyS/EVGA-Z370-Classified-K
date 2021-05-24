@@ -29,3 +29,6 @@ BIOS Version  	      1.14-1.17
 On this configuration, I managed to get everything: sound, intel acceleration, all USB ports, sleep, a discrete RX580 graphics card, an implemented system on OpenCore 0.6.9 loader
 
 Tested MacOS_11.4_And_MacOS_10.15.6, it will also work without problems on MacOS_10.14
+
+
+<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-map.jpg" width="212" height="212"/>
