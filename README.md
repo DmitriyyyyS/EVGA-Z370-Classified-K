@@ -31,4 +31,4 @@ On this configuration, I managed to get everything: sound, intel acceleration, a
 Tested MacOS_11.4_And_MacOS_10.15.6, it will also work without problems on MacOS_10.14
 
 
-<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-map.jpg" width="212" height="212"/>
+<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-map.jpg" width="1280" height="1280"/>
