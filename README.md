@@ -33,3 +33,5 @@ Tested MacOS_11.4_And_MacOS_10.15.6, it will also work without problems on MacOS
 Below you can see the location of the ports, and their identifiers by which USBMap.kext was created
 
 <img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-map.jpg" width="700" height="600"/>
+
+<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-1.jpg" width="700" height="600"/>
