@@ -34,4 +34,4 @@ Below you can see the location of the ports, and their identifiers by which USBM
 
 <img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-map.jpg" width="700" height="600"/>
 
-<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-1.jpg" width="700" height="600"/>
+<img src="https://github.com/DmitriyyyyS/EVGA-Z370-Classified-K/blob/master/Other/USB-1.jpg" width="1231" height="642"/>
